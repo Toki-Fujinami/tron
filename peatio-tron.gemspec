@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "peatio/tron/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "peatio-tron"
+  spec.name = "tron"
   spec.version = Peatio::Tron::VERSION
   spec.authors = ["ABC"]
   spec.email = ["abc"]
